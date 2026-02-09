@@ -58,6 +58,7 @@ All images are stored in the `screenshots/` folder in this repository.
 
 employee-productivity-dashboard/
 │
+
 ├── app.py
 ├── requirements.txt 
 ├── README.md
