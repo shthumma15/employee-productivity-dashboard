@@ -44,6 +44,14 @@ All images are stored in the `screenshots/` folder in this repository.
 
 ---
 
+## Demo Video
+
+A short walkthrough explaining the design choices, visualizations, and insights from the dashboard:
+
+▶️ Watch the demo: https://indiana-my.sharepoint.com/:v:/g/personal/shthumma_iu_edu/IQBRwDrwwQnARIlNazzV27-yAXs0CHbV3VFeudSZZNGJ9G8?e=1Hxa1L
+
+---
+
 ## Technologies Used
 
 - Python  
@@ -57,12 +65,18 @@ All images are stored in the `screenshots/` folder in this repository.
 ## Project Structure
 
 employee-productivity-dashboard/
+
 │
+
 ├── app.py
+
 ├── requirements.txt 
+
 ├── README.md
+
 ├── .gitignore
-└── analysis.ipynb
+
+└── Data_visualization.ipynb
 
 
 ---
