@@ -60,9 +60,13 @@ employee-productivity-dashboard/
 │
 
 ├── app.py
+
 ├── requirements.txt 
+
 ├── README.md
+
 ├── .gitignore
+
 └── analysis.ipynb
 
 
